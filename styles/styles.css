@@ -1,0 +1,61 @@
+body {
+  font-family: 'Architects Daughter', cursive;
+}
+
+.remark-slide::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-image: url(../img/fondo.jpg);
+  background-size: cover;
+  filter: blur(3px);
+  z-index: 0;
+}
+
+.remark-slide-content {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 1;
+  background-color: transparent;
+}
+
+.image {
+  position: absolute;
+  top: 2rem;
+  bottom: 4rem;
+  left: 2rem;
+  right: 2rem;
+}
+
+.image img {
+  width: 100%;
+  height: 100%;
+  object-fit: contain;
+}
+
+.subtitle {
+  position: absolute;
+  bottom: 2rem;
+  right: 2rem;
+  left: 2rem;
+  color: antiquewhite;
+  font-size: 0.9rem;
+  text-align: center;
+}
+
+.date {
+  position: absolute;
+  bottom: 1rem;
+  right: 1rem;
+  color: antiquewhite;
+}
+
+.remark-slide-number {
+  display: none;
+}

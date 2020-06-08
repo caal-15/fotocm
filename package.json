@@ -1,0 +1,27 @@
+{
+  "name": "fotocm",
+  "version": "0.0.1",
+  "description": "Foto Album Mari Y Carlos",
+  "main": "index.html",
+  "scripts": {
+    "start": "serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/caal-15/fotocm.git"
+  },
+  "keywords": [
+    "remark",
+    "fotoalbum"
+  ],
+  "author": "Carlos González, Maritza Monroy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/caal-15/fotocm/issues"
+  },
+  "homepage": "https://github.com/caal-15/fotocm#readme",
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
