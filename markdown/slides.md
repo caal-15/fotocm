@@ -49,3 +49,39 @@
 .image[![WhatsApp1](img/20190413_130227.jpg)]
 .subtitle[De la clase de manejo salí con guitarra campesina <3]
 .date[2019/04/13]
+
+---
+
+.image[![WhatsApp1](img/20190419_161813.jpg)]
+.subtitle[Nuestra primer foto junticos]
+.date[2019/04/19]
+
+---
+
+.image[![WhatsApp1](img/20190419_161814.jpg)]
+.subtitle[En ese momento yo no sabía que muchos días en adelante iba a soñar con sus abrazos]
+.date[2019/04/19]
+
+---
+
+.image[![WhatsApp1](img/20190428_233625.jpg)]
+.subtitle[Ella en ese momento no sabía todo lo que sentía mientras escogía los dibujos]
+.date[2019/04/28]
+
+---
+
+.image[![WhatsApp1](img/20190429-WA0017.jpg)]
+.subtitle[Ella siempre intentando dañar el romance]
+.date[2019/04/29]
+
+---
+
+.image[![WhatsApp1](img/20190509-WA0002.jpg)]
+.subtitle[Me metí en severa deuda, por un estudio que no ha llegado]
+.date[2019/05/09]
+
+---
+
+.image[![WhatsApp1](img/20190519-WA0002.jpg)]
+.subtitle[Hubo una falsa interpretación del color de los corazones, para ese entonces éramos "amigos"]
+.date[2019/05/19]
