@@ -4,4 +4,6 @@
 
 ---
 
-# Nuestro Foto Album 2
+.image[![WhatsApp1](img/20190119-025043_WhatsApp.jpg)]
+.subtitle[Cuando Mari escribía 'González' con 'S']
+.date[2019/01/19]
