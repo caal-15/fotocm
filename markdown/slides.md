@@ -85,3 +85,64 @@
 .image[![WhatsApp1](img/20190519-WA0002.jpg)]
 .subtitle[Hubo una falsa interpretación del color de los corazones, para ese entonces éramos "amigos"]
 .date[2019/05/19]
+
+---
+
+.image[![WhatsApp1](img/20190521-WA0002.jpg)]
+.subtitle[De las primeras bromas que vivimos]
+.date[2019/05/21]
+
+---
+
+.image[![WhatsApp1](img/20190526-033629.jpg)]
+.subtitle[Mi mamá la invitó a mi fiesta sorpresa! (y a ella casi le da un infarto)]
+.date[2019/05/26]
+
+---
+
+.image[![WhatsApp1](img/20190531_203755.jpg)]
+.subtitle[Luego de seleccionar las flores, el cuento fue que sobreviviera el Florero]
+.date[2019/05/31]
+
+---
+
+.image[![WhatsApp1](img/20190602_224054.jpg)]
+.subtitle[Ella me dejó ahogar solo, como el tipo de Titanic (en la piscina de pelotas)]
+.date[2019/06/02]
+
+---
+
+.image[![WhatsApp1](img/20190603_105115.jpg)]
+.subtitle[Debo reconocer que antes y ahora sigue siendo complicado alejarme de él]
+.date[2019/06/03]
+
+---
+
+.image[![WhatsApp1](img/20190610-065057_Chrome.jpg)]
+.subtitle[Y así empezó nuestra aventura __oficialmente__, aunque ya llevaba su tiempo extraoficial :) (yaper)]
+.date[2019/06/10]
+
+---
+
+.image[![WhatsApp1](img/20190611-WA0000.jpg)]
+.subtitle[Murci es la prueba de que la mitad del tiempo en Salento sólo pensaba en él]
+.date[2019/06/11]
+
+---
+
+.image[![WhatsApp1](img/20190629-001034_Instagram.jpg)]
+.subtitle[Nuestro amor fue garrapatudito desde el principio, incluso en imágenes :)]
+.date[2019/06/29]
+
+---
+
+.image[![WhatsApp1](img/20190629_231221.jpg)]
+.subtitle[Yo me quedo con el recuerdo de Tu Amor me Hace Bien en mis oidos]
+.date[2019/06/29]
+
+---
+
+.image[![WhatsApp1](img/20190630_172319.jpg)]
+.subtitle[Ese día el bebé pony la enamoró más que yo]
+.date[2019/06/30]
+
